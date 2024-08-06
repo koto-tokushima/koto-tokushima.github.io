@@ -18,26 +18,26 @@ const PostURL = "http://localhost:8080/save_data";
  * ※変更ポイント（使用する音声に変更して下さい）
  */
 const MOSaudioFiles = [
-  "../wav/_num/1.wav",
-  "../wav/_num/2.wav",
-  "../wav/_num/3.wav",
-  "../wav/_num/4.wav",
-  "../wav/_num/5.wav",
-  "../wav/_num/6.wav",
-  "../wav/_num/7.wav",
-  "../wav/_num/8.wav",
-  "../wav/_num/9.wav",
-  "../wav/_num/10.wav",
-  "../wav/_num/11.wav",
-  "../wav/_num/12.wav",
-  "../wav/_num/13.wav",
-  "../wav/_num/14.wav",
-  "../wav/_num/15.wav",
-  "../wav/_num/16.wav",
-  "../wav/_num/17.wav",
-  "../wav/_num/18.wav",
-  "../wav/_num/19.wav",
-  "../wav/_num/20.wav",
+  "/wav/_num/1.wav",
+  "/wav/_num/2.wav",
+  "/wav/_num/3.wav",
+  "/wav/_num/4.wav",
+  "/wav/_num/5.wav",
+  "/wav/_num/6.wav",
+  "/wav/_num/7.wav",
+  "/wav/_num/8.wav",
+  "/wav/_num/9.wav",
+  "/wav/_num/10.wav",
+  "/wav/_num/11.wav",
+  "/wav/_num/12.wav",
+  "/wav/_num/13.wav",
+  "/wav/_num/14.wav",
+  "/wav/_num/15.wav",
+  "/wav/_num/16.wav",
+  "/wav/_num/17.wav",
+  "/wav/_num/18.wav",
+  "/wav/_num/19.wav",
+  "/wav/_num/20.wav",
 ];
 
 /**
@@ -46,16 +46,16 @@ const MOSaudioFiles = [
  * ※変更ポイント（使用する音声に変更して下さい）
  */
 const DMOSaudioFiles = [
-  ["../wav/_num/1.wav", "../wav/_num/2.wav"],
-  ["../wav/_num/3.wav", "../wav/_num/4.wav"],
-  ["../wav/_num/5.wav", "../wav/_num/6.wav"],
-  ["../wav/_num/7.wav", "../wav/_num/8.wav"],
-  ["../wav/_num/9.wav", "../wav/_num/10.wav"],
-  ["../wav/_num/11.wav", "../wav/_num/12.wav"],
-  ["../wav/_num/13.wav", "../wav/_num/14.wav"],
-  ["../wav/_num/15.wav", "../wav/_num/16.wav"],
-  ["../wav/_num/17.wav", "../wav/_num/18.wav"],
-  ["../wav/_num/19.wav", "../wav/_num/20.wav"],
+  ["/wav/_num/1.wav", "/wav/_num/2.wav"],
+  ["/wav/_num/3.wav", "/wav/_num/4.wav"],
+  ["/wav/_num/5.wav", "/wav/_num/6.wav"],
+  ["/wav/_num/7.wav", "/wav/_num/8.wav"],
+  ["/wav/_num/9.wav", "/wav/_num/10.wav"],
+  ["/wav/_num/11.wav", "/wav/_num/12.wav"],
+  ["/wav/_num/13.wav", "/wav/_num/14.wav"],
+  ["/wav/_num/15.wav", "/wav/_num/16.wav"],
+  ["/wav/_num/17.wav", "/wav/_num/18.wav"],
+  ["/wav/_num/19.wav", "/wav/_num/20.wav"],
 ];
 
 /**
